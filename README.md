@@ -17,7 +17,7 @@ Infonet Power requires [Node.js](https://nodejs.org/) and [Electron](https://www
 ```sh
 npm start
 ```
-Note: to open the developer menu press control + shift + i
+Note: to open the developer menu press `control + shift + i`
 ### License & Credits
 Ispired by [Infonet-Hypertext](https://github.com/MaxTechnics/Infonet-HyperText)<br />
 Created by Artzert<br />
