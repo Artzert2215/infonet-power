@@ -1,3 +1,4 @@
+![Logo](https://i.imgur.com/5OMEg3p.png)
 # Infonet Power
 A simplified and feature rich school billboard, aiming to complete the same goal as infonet hypertext. 
 ### Features
