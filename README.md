@@ -19,6 +19,9 @@ Infonet Power requires [Node.js](https://nodejs.org/) and [Electron](https://www
 npm start
 ```
 Note: to open the developer menu press `Control + Shift + I` or `Command + Shift + I`
+### Additional Info
+Version numbering and Infonet Power rely on Infonet HyperText. This is because the backend for the lesson board depends on Infonet HyperText.
+
 ### License & Credits
 Inspired by [Infonet HyperText](https://github.com/MaxTechnics/Infonet-HyperText)<br />
 Created by Artzert<br />
