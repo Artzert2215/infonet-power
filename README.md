@@ -18,6 +18,6 @@ Infonet Power requires [Node.js](https://nodejs.org/) and [Electron](https://www
 npm start
 ```
 ### License & Credits
-Ispired by [Infonet-Hypertext](https://github.com/MaxTechnics/Infonet-HyperText)
-Created by Artzert
+Ispired by [Infonet-Hypertext](https://github.com/MaxTechnics/Infonet-HyperText)<br />
+Created by Artzert<br />
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /><br /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
