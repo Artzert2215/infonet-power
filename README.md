@@ -1,13 +1,13 @@
 # Infonet Power
 A simplified and feature rich school billboard, aiming to complete the same goal as infonet hypertext. 
 ### Features
--Black background for energy saving
--Simple clock + date
--Version checker
--Customized slider & lesson board
--Open source
--Fast
--Standalone webapp
+- Black background for energy saving
+- Simple clock + date
+- Version checker
+- Customized slider & lesson board
+- Open source
+- Fast
+- Standalone webapp
 ### Installation & Dependencies
 bc
 ### License
