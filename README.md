@@ -11,7 +11,7 @@ A simplified and feature rich school billboard, aiming to complete the same goal
 - No browser required
 ### Installation & Dependencies
 Infonet Power requires [Node.js](https://nodejs.org/) and [Electron](https://www.electronjs.org/) to run.
-**Note: Electron must be installed globally!**
+**Electron must be installed globally!**
 
 1) Clone this repository
 2) Open a console window in the install directory and run:
