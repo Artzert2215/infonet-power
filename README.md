@@ -23,6 +23,6 @@ Note: to open the developer menu press `Control + Shift + I` or `Command + Shift
 Version numbering and Infonet Power rely on Infonet HyperText. This is because the backend for the lesson board depends on Infonet HyperText.
 
 ### License & Credits
-Inspired by [Infonet HyperText](https://github.com/MaxTechnics/Infonet-HyperText)<br />
+Inspired by [Infonet HyperText](https://github.com/MaxTechnics/Infonet-HyperText) (discontinued)<br />
 Created by Artzert<br />
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /><br /></a>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
